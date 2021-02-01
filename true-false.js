@@ -18,7 +18,7 @@ const country = null;   //null is false
 let theirName = NaN;  //it will show false
 const age = 0; //number bigger than 0 is true
 const myName = "";   //any string including space is also true
-if(theirName){            //if any number is 0 then it will be false.if any string is empty then it is false.
+if(myName){            //if any number is 0 then it will be false.if any string is empty then it is false.
     console.log("condition is true");
 }
 else{
